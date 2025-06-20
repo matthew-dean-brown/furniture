@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "name": "Modern Sofa",
+    "type": "Seating",
+    "material": "Fabric",
+    "color": "Gray",
+    "price": 899.99,
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1586105251261-72a756497a12"
+  },
+  {
+    "id": 2,
+    "name": "Wooden Dining Table",
+    "type": "Table",
+    "material": "Oak Wood",
+    "color": "Natural",
+    "price": 749.99,
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1598300056392-c88a5d5e2f57"
+  },
+  {
+    "id": 3,
+    "name": "Ergonomic Office Chair",
+    "type": "Chair",
+    "material": "Mesh",
+    "color": "Black",
+    "price": 249.99,
+    "inStock": false,
+    "imageUrl": "https://images.unsplash.com/photo-1616627980540-2ec0c4b1f63f"
+  },
+  {
+    "id": 4,
+    "name": "Queen Bed Frame",
+    "type": "Bed",
+    "material": "Metal",
+    "color": "Matte Black",
+    "price": 399.99,
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c"
+  },
+  {
+    "id": 5,
+    "name": "Bookshelf with Drawers",
+    "type": "Storage",
+    "material": "Engineered Wood",
+    "color": "Walnut",
+    "price": 199.99,
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1598300056710-2b31d47b3f75"
+  },
+  {
+    "id": 6,
+    "name": "Accent Armchair",
+    "type": "Seating",
+    "material": "Velvet",
+    "color": "Emerald Green",
+    "price": 329.99,
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1600585153837-97b1a2fa1c04"
+  },
+  {
+    "id": 7,
+    "name": "Coffee Table",
+    "type": "Table",
+    "material": "Glass & Steel",
+    "color": "Clear & Chrome",
+    "price": 179.99,
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1580489944761-15a19d654956"
+  },
+  {
+    "id": 8,
+    "name": "Nightstand",
+    "type": "Storage",
+    "material": "Solid Pine",
+    "color": "White",
+    "price": 89.99,
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1621978611265-ff41e8ef0a3a"
+  },
+  {
+    "id": 9,
+    "name": "TV Stand",
+    "type": "Storage",
+    "material": "MDF",
+    "color": "Espresso",
+    "price": 149.99,
+    "inStock": false,
+    "imageUrl": "https://images.unsplash.com/photo-1616627562213-f2c80d7167a6"
+  },
+  {
+    "id": 10,
+    "name": "Bar Stool Set (2)",
+    "type": "Seating",
+    "material": "Leatherette",
+    "color": "Tan",
+    "price": 219.99,
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1621978611490-932f91e9404d"
+  }
+]
