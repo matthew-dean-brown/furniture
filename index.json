@@ -7,7 +7,8 @@
     "color": "Gray",
     "price": 899.99,
     "inStock": true,
-    "imageUrl": "https://images.unsplash.com/photo-1586105251261-72a756497a12"
+    "imageUrl": "https://thefoschini.vtexassets.com/arquivos/ids/193704490-1200-1600?v=638848973576600000&width=1200&height=1600&aspect=true",
+    "description": "A sleek, gray fabric sofa with a modern silhouette, perfect for contemporary living spaces."
   },
   {
     "id": 2,
@@ -17,7 +18,8 @@
     "color": "Natural",
     "price": 749.99,
     "inStock": true,
-    "imageUrl": "https://images.unsplash.com/photo-1598300056392-c88a5d5e2f57"
+    "imageUrl": "https://www.timberfurnituredesigns.co.za/cdn/shop/files/IMG-1117.jpg?v=1717429456&width=823",
+    "description": "A durable oak wood dining table with a natural finish, ideal for family meals and gatherings."
   },
   {
     "id": 3,
@@ -27,7 +29,8 @@
     "color": "Black",
     "price": 249.99,
     "inStock": false,
-    "imageUrl": "https://images.unsplash.com/photo-1616627980540-2ec0c4b1f63f"
+    "imageUrl": "https://www.alloffice.co.za/wp-content/uploads/Accent-Mesh-Chair-1.jpg",
+    "description": "A black ergonomic office chair featuring breathable mesh and lumbar support for all-day comfort."
   },
   {
     "id": 4,
@@ -37,7 +40,8 @@
     "color": "Matte Black",
     "price": 399.99,
     "inStock": true,
-    "imageUrl": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c"
+    "imageUrl": "https://pascalfurniture.com/cdn/shop/products/bed-base-euphoria-cream.jpg?v=1695798499&width=750",
+    "description": "A sturdy metal queen bed frame in matte black, offering a minimalist look and strong support."
   },
   {
     "id": 5,
@@ -47,7 +51,8 @@
     "color": "Walnut",
     "price": 199.99,
     "inStock": true,
-    "imageUrl": "https://images.unsplash.com/photo-1598300056710-2b31d47b3f75"
+    "imageUrl": "https://thefoschini.vtexassets.com/arquivos/ids/194125712-1200-1600?v=638849151130300000&width=1200&height=1600&aspect=true",
+    "description": "A stylish walnut bookshelf with multiple shelves and drawers for versatile storage and display."
   },
   {
     "id": 6,
@@ -57,7 +62,8 @@
     "color": "Emerald Green",
     "price": 329.99,
     "inStock": true,
-    "imageUrl": "https://images.unsplash.com/photo-1600585153837-97b1a2fa1c04"
+    "imageUrl": "https://mobelli.co.za/wp-content/uploads/Mobelli_Amare_Armchair_Lifestyle.png.webp",
+    "description": "A luxurious velvet armchair in emerald green, adding a bold and elegant touch to any room."
   },
   {
     "id": 7,
@@ -67,7 +73,8 @@
     "color": "Clear & Chrome",
     "price": 179.99,
     "inStock": true,
-    "imageUrl": "https://images.unsplash.com/photo-1580489944761-15a19d654956"
+    "imageUrl": "https://thefoschini.vtexassets.com/arquivos/ids/193037100-1200-1600?v=638848697084070000&width=1200&height=1600&aspect=true",
+    "description": "A contemporary glass coffee table with chrome accents, perfect for modern living rooms."
   },
   {
     "id": 8,
@@ -77,7 +84,8 @@
     "color": "White",
     "price": 89.99,
     "inStock": true,
-    "imageUrl": "https://images.unsplash.com/photo-1621978611265-ff41e8ef0a3a"
+    "imageUrl": "https://assets.superbalistcdn.co.za/500x720/filters:quality(75):format(jpg)/4355314/original.jpg",
+    "description": "A compact white nightstand made of solid pine, ideal for bedside essentials and decor."
   },
   {
     "id": 9,
@@ -87,7 +95,8 @@
     "color": "Espresso",
     "price": 149.99,
     "inStock": false,
-    "imageUrl": "https://images.unsplash.com/photo-1616627562213-f2c80d7167a6"
+    "imageUrl": "https://thefoschini.vtexassets.com/arquivos/ids/194497947-1200-1600?v=638849313039070000&width=1200&height=1600&aspect=true",
+    "description": "An espresso-colored MDF TV stand offering ample space for media devices and storage."
   },
   {
     "id": 10,
@@ -97,6 +106,7 @@
     "color": "Tan",
     "price": 219.99,
     "inStock": true,
-    "imageUrl": "https://images.unsplash.com/photo-1621978611490-932f91e9404d"
+    "imageUrl": "https://www.makro.co.za/asset/rukmini/fccp/832/832/ng-fkpublic-ui-user-fbbe/bar-stool-chair/8/u/e/-original-imah55ybkhcfgrhe.jpeg?q=70",
+    "description": "A set of two tan leatherette bar stools with a modern design, great for kitchen islands or bars."
   }
 ]
